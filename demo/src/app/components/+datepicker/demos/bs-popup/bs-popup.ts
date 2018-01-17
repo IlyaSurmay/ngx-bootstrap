@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'demo-date-picker-popup',
-  templateUrl: './date-picker-popup.html'
+  templateUrl: './bs-popup.html'
 })
 export class DemoDatePickerPopupComponent {
   minDate = new Date(2017, 5, 10);

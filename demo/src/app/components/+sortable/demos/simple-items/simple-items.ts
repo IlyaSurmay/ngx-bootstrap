@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'simple-items-demo',
-  templateUrl: './simple-items.component.html'
+  templateUrl: './simple-items.html'
 })
 export class SimpleItemsDemoComponent {
   itemStringsLeft: any[] = [
