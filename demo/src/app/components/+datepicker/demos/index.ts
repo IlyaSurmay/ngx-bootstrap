@@ -7,7 +7,7 @@ import { DemoDatepickerMinMaxComponent } from './min-max/min-max';
 import { DemoDatepickerDisabledComponent } from './disabled/disabled';
 import { DemoDatepickerFormsComponent } from './forms/forms';
 import { DemoDatepickerReactiveFormsComponent } from './reactive-forms/reactive-forms';
-import { DemoDatePickerCustomFormatComponent } from './custom-format/date-picker-custom-format';
+import { DemoDatePickerCustomFormatComponent } from './custom-format/custom-format';
 
 export const DEMO_COMPONENTS = [
   DatepickerDemoComponent,
